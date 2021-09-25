@@ -1,0 +1,37 @@
+.vedio{
+  position:absolute;
+  top:39px;
+  z-index: -2;
+  
+}
+.h1{
+  position: absolute;
+  text-align:Left;
+  color:Green;
+  top:200px;
+  left: 100px;
+  font-size: 50px;
+}
+.h2{
+  position: absolute;
+  font-size: 50px;
+  top: 290px;
+  left: 100px;
+  font-size: 70px;
+  color: Blue;
+}
+body{
+  background-color: ;
+}
+.img{
+  height: 100px;
+  width: 10px;
+}
+.logo{
+  top: 50px;
+  left: 20px;
+  position: absolute;
+  border-image: 50px solid black;
+}
+
+
